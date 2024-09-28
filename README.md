@@ -29,7 +29,7 @@
 <h2>Setup and Installation</h2>
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/yourusername/government-officials-app.git</code></pre>
+    <pre><code>git clone https://github.com/RikGanguli/Civil-Advocacy-App.git</code></pre>
   </li>
   <li>Open the project in Android Studio.</li>
   <li>Ensure you have the required dependencies in your <code>build.gradle</code> file (e.g., Fused Location Provider, Picasso, etc.).</li>
@@ -46,7 +46,7 @@
 <h2>API Setup</h2>
 <ol>
   <li>Sign up for an API key from <a href="https://developers.google.com/civic-information">Google Civic Information API</a>.</li>
-  <li>Add your API key in the appropriate location in the app’s code (e.g., in a constants file).</li>
+  <li>Add your API key in GetPoliticianData.java.</li>
 </ol>
 
 <h2>Usage</h2>
@@ -62,5 +62,5 @@
 <p>(Add screenshots of your app here)</p>
 
 <h2>Credits</h2>
-<p>Developed by [Your Name]</p>
+<p>Developed by Rik Ganguli Biswas</p>
 <p>Powered by <a href="https://developers.google.com/civic-information">Google Civic Information API</a> and <a href="https://square.github.io/picasso/">Picasso Library</a>.</p>

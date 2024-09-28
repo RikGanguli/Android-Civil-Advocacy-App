@@ -1,4 +1,4 @@
-<h1>Government Officials App</h1>
+<h1>Civil Advocacy App</h1>
 
 <p>This Android app fetches and displays a list of political officials representing a user's current location (or a specified location) across different levels of government. The app uses the <a href="https://developers.google.com/civic-information">Google Civic Information API</a> to retrieve data about government officials and allows users to explore detailed information about their representatives.</p>
 

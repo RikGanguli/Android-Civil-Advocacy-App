@@ -21,7 +21,7 @@ import Model.Candidates;
 public class GetPoliticianData {
     private static RequestQueue q;
     private static List<Candidates> candidate_list = new ArrayList<>();
-    private static final String api_key = "AIzaSyA4VfjVr_Wx9_CQM5VVWLeorgeZMf2RxSc";
+    private static final String api_key = "your-google-api-key";
     private static MainActivity m_act;
     private static final String link = "https://www.googleapis.com/civicinfo/v2/representatives";
 

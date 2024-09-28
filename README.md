@@ -59,7 +59,7 @@
 </ul>
 
 <h2>Screenshots</h2>
-<p>(Add screenshots of your app here)</p>
+<p></p>
 
 <h2>Credits</h2>
 <p>Developed by Rik Ganguli Biswas</p>

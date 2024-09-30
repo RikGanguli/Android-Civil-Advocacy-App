@@ -29,7 +29,7 @@
 <h2>Setup and Installation</h2>
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/RikGanguli/Civil-Advocacy-App.git</code></pre>
+    <pre><code>git clone https://github.com/RikGanguli/Android-Civil-Advocacy-App.git</code></pre>
   </li>
   <li>Open the project in Android Studio.</li>
   <li>Ensure you have the required dependencies in your <code>build.gradle</code> file (e.g., Fused Location Provider, Picasso, etc.).</li>
